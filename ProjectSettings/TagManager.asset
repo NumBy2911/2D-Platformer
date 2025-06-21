@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damaging
+  - Platforms
+  - switch
+  - Moving platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platforms
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1062741405
+    locked: 0
+  - name: Objects
+    uniqueID: 3839937429
+    locked: 0
+  - name: Platforms
+    uniqueID: 128969489
+    locked: 0
+  - name: Player
+    uniqueID: 549833929
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
